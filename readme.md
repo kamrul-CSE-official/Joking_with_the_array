@@ -1,1 +1,1 @@
-<a herf="https://www.w3schools.com/dsa/dsa_algo_insertionsort.php">Learun</a>
+<a href="https://www.w3schools.com/dsa/dsa_algo_insertionsort.php">Learn</a>
